@@ -1,0 +1,92 @@
+footer {
+    background-color: #222;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
+.push {
+    height: 1%;
+    text-align: center;
+}
+
+.loginHeader{
+    text-align:center;
+}
+
+.leaderboard .well{
+    text-align: left;
+}
+
+.centerStage{
+    text-align: center;
+    margin:auto;
+    width:50%;
+}
+
+.footerText{
+    color:gray;
+}
+
+.cellBlock{
+    border: 4px solid black;
+    width:20%;
+    height:20%;
+}
+
+.gameBoard{
+    text-align: center;
+    margin:auto;
+    width:80%;
+}
+
+.cellBlock img{
+    width:100%;
+    height:100%;
+    margin:0 auto;
+}
+
+.boardRow{
+    margin: 0 auto;
+    width:175%;
+
+}
+
+.player{
+    background: red;
+}
+
+.ai{
+    background:blue;
+}
+
+.gamePanel{
+    min-width:15%;
+    min-height:100%;
+    height:100%;
+}
+
+.gameScreen{
+    margin: 0 auto;
+}
+
+.gamePanelImg{
+    background:white;
+}
+
+.gamePanelImg img{
+    height:40px;
+    width:40px;
+}
+
+.modal *{
+    text-align:center;
+}
+
+.panelText{
+    color:white;
+}
+
+.playStage{
+
+  margin-left: 200px;
+}
